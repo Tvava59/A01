@@ -88,7 +88,7 @@
 .nav-links li a {
     color: #333;
     font-weight: 600;
-    font-size: 1em;
+    font-size: 0.69em;
 }
 
 .nav-links li a:hover {
@@ -100,7 +100,7 @@
     position: relative;
     display: inline-block;
     font-weight: bold;
-    font-size: 1em;
+    font-size:  0.69em;
     cursor: pointer;
 }
 
